@@ -25,3 +25,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Rajputt&" alt="Mayank-Rajputt" /></p>  
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayank-Rajputt&show_icons=true&locale=en&layout=compact" alt="Mayank-Rajputt" /></p>  
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mayank-Rajputt" alt="Mayank-Rajputt" /></a></p>  
+
+## 📬 Contact Me
+
+👤 **Mayank Rana**  
+
+  🌍 **Location**: Meerut, Delhi NCR  
+🔗 [LinkedIn](https://www.linkedin.com/in/mayank-rana9368/)
+
+📧 **Email**: [mayankrajputana9@gmail.com](mailto:mayankrajputana9@gmail.com)
+
+---
